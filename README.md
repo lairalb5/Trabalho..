@@ -2,6 +2,136 @@
 
 
 
+<table border="1">
+   <h3><capition>Turmas Período Vespertino</capition></h3>
+    <tr>
+        <th>Turma</th>
+        <th>Período</th>
+    </tr>
+    <tr>
+        <td>6°A</td>
+        <td>Vespertino</td>
+    </tr>
+    <tr>
+        <td>6°B</td>
+        <td>Vespertino</td>
+    </tr>
+<tr>
+        <td>6°C</td>
+        <td>Vespertino</td>
+    </tr>
+<tr>
+        <td>6°D</td>
+        <td>Vespertino</td>
+    </tr>
+<tr>
+        <td>7°A</td>
+        <td>Vespertino</td>
+    </tr>
+<tr>
+        <td>7°B</td>
+        <td>Vespertino</td>
+    </tr>
+<tr>
+        <td>7°C</td>
+        <td>Vespertino</td>
+    </tr>
+<tr>
+        <td>7°D</td>
+        <td>Vespertino</td>
+    </tr>
+<tr>
+        <td>8°E</td>
+        <td>Vespertino</td>
+    </tr>
+</table>
+
+
+
+<table border="1">
+   <h3><capition>Turmas Período Matutino</capition></h3>
+    <tr>
+        <th>Turma</th>
+        <th>Período</th>
+    </tr>
+    <tr>
+        <td>8°A</td>
+        <td>Matutino</td>
+    </tr>
+    <tr>
+        <td>8°B</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>8°C</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>8°D</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>9°A</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>9°B</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>9°C</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>9°D</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>1°A</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>1°B</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>1°C</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>1°D</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>2°A</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>2°B</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>2°C</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>2°D</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>3°A</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>3°B</td>
+        <td>Matutino</td>
+    </tr>
+<tr>
+        <td>3°C</td>
+        <td>Matutino</td>
+    </tr>
+</table>
+
 <h3> Ensino Fundamental </h3>
 <h5> Disciplinas Ofertadas: </h5>
 <ul>
