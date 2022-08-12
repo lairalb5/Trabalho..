@@ -49,3 +49,4 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsP6xHLVndsdWFoUtUaxT6m4qjM1e0_r0Rw&usqp=CAU"><br></br>
 <h4> Link da Aula Paraná:</h4>
 <h5><ins><a href= "https://youtu.be/BKCNi4S0Xos/imagem/1A.dpg">Aula Paraná</a></ins></h5>
+<h6> Prof. Andreo Luis Bolwerk </h6>
